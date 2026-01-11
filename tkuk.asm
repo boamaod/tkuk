@@ -197,7 +197,7 @@ targu:	nop
 	sub	b
 	mov	c,a
 	mvi	b,0
-	ral	a
+	ral
 	adi	42h
 	sta	fata+5
 
